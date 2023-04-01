@@ -9,4 +9,4 @@ to run,
 - navigate to the directory in which the repository was cloned
 - compile the code using "cc main.c -lm -lX11"
 - run the code using "./a.out"
-- navigate the scene using the arrow keys
+- a screen should pop up where you'll be able navigate the scene using the arrow keys
